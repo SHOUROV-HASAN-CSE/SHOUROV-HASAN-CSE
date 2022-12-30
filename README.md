@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm Shourov Hasan</h1>
 <h3 align="center">A passionate Fullstack developer from Bangladesh.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://jayamwebsolutions.com/img/website.gif">
+<img align="right" alt="Coding" width="500" src="https://jayamwebsolutions.com/img/website.gif">
 
-- 🔭 I’m currently working on **Private Projects**
+- 🔭 I’m currently working on Private Projects 
+- 🌱 I’m currently learning and working on MERN Stack Development 
+- 👯 I’m looking to collaborate on teach happiness 
+- 🤔 I’m looking for help with Full Stack Development 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: shourovhasancse@gmail.com 
+- ⚡ Fun fact: Hard Worker 
 
-- 🌱 I’m currently learning **and working with MERN Stack Development**
 
-- 👯 I’m looking to collaborate on **teach happiness**
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/18jEuHdVqwkfXFapDsV6-m_ObPuAFoWAw/view?usp=sharing)
 
-- 🤝 I’m looking for help with **Full Stack Development**
-
-- 👨‍💻 All of my projects are available at [https://shourovhasan.netlify.app/](https://shourovhasan.netlify.app/)
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **shourovhasancse@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/18jEuHdVqwkfXFapDsV6-m_ObPuAFoWAw/view?usp=sharing](https://drive.google.com/file/d/18jEuHdVqwkfXFapDsV6-m_ObPuAFoWAw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
