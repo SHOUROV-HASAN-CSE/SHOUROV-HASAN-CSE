@@ -37,8 +37,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SHOUROV-HASAN-CSE&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SHOUROV-HASAN-CSE)  
-
 ![GitHub metrics](https://metrics.lecoq.io/SHOUROV-HASAN-CSE)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SHOUROV-HASAN-CSE)  
