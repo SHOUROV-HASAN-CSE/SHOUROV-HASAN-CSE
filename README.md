@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shourov Hasan</h1>
 <h3 align="center">A passionate Fullstack developer from Bangladesh.</h3>
 
-<img align="right" alt="Coding" width="500" src="https://jayamwebsolutions.com/img/website.gif">
+<img align="right" alt="Coding" width="400" src="https://jayamwebsolutions.com/img/website.gif">
 
 - 🔭 I’m currently working on Private Projects 
 - 🌱 I’m currently learning and working on MERN Stack Development 
